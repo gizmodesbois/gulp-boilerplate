@@ -1,0 +1,22 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "0.0.1",
+  "description": "Base project with gulp implementation",
+  "main": "gulpfile.js",
+  "author": "Simon Henrotte",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gizmodesbois/gulp-boilerplate.git"
+  },
+  "homepage": "https://github.com/gizmodesbois/gulp-boilerplate",
+  "bugs": {
+    "url" : "https://github.com/gizmodesbois/gulp-boilerplate/issues"
+  },
+  "keywords" : [
+    "boilerplate",
+    "gulp"
+  ],
+  "dependencies" : {},
+  "devDependencies" : {}
+}
